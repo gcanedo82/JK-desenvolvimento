@@ -1,0 +1,86 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/JK.json",
+  "@type": "sc:Collection",
+  "label": "JK",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto11"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto12"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto13/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto13"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto14/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto14"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto15/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto15"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto6"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto7"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto8"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/foto9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "foto9"
+    }
+  ]
+}
