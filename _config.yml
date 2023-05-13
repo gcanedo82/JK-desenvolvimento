@@ -20,7 +20,7 @@
 
 title:            'JK'
 description:      'Exposição virtual: desenvolvimento nas imagens da Agência Nacional'
-url:             "http://localhost:4000"
+url:             "https://gcanedo82.github.io"
 baseurl:          '/JK-desenvolvimento'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
