@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'JK'
-description:      'Exposição virtual: desenvolvimento nas imagens da Agência Nacional'
+title:            'Desenvolvimentismo nos anos JK'
+description:      'Uma exposição virtual a partir do acervo fotográfico da Agência Nacional'
 url:             "https://gcanedo82.github.io"
 baseurl:          '/JK-desenvolvimento'
 copyright:        'Example copyright org, 2019'
